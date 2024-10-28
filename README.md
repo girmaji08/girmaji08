@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Girmaji(@girmaji08)
-- 👀 I’m interested in Multi Modal Machine Learning
+- 👀 Machine Learning/ Deep Learning, Computer Vision, Multi-Modal Machine Learning Research
 - 📫 How to reach me grohit90@gmail.com
 
 <!---
